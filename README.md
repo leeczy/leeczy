@@ -1,13 +1,14 @@
-### Leczy :alien:
+### Leczy :shipit:
 
 - 🔭 Discord Developer
-- 🇬🇧 Argentina
-- 🏠 https://mybo.me/facu
+- :ar: Argentina
+- :robot: https://mybo.me/facu
 
 ### Who Cares (Discord Bot) 📧
 
 - [Support Server](https://discord.gg/8dShDZfqca)
 - [Top.gg](https://top.gg/bot/775885650653741067)
+- [Invite](https://discord.com/oauth2/authorize?client_id=775885650653741067&scope=bot&permissions=8)
 - Website Incoming...
 
-⭐️ Sigueme en [Instagram](https://github.com/solrevdev)
+:camera: Sigueme en [Instagram](https://instagram.com/l3czy)
