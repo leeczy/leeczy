@@ -15,3 +15,7 @@ Dictionary<string, string> presentation =
   { "Discord Bot: ", "discord.ly/who-cares"}
 }
 ```
+
+<p aling="center">
+    <img aling="center" src="https://github-readme-stats.vercel.app/api?username=LeczyDeveloper">
+</p>
