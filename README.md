@@ -17,5 +17,5 @@ Dictionary<string, string> presentation =
 ```
 
 <p aling="center">
-    <img aling="center" src="https://github-readme-stats.vercel.app/api?username=LeczyDeveloper&show_icons=true&theme=radical">
+    <img aling="center" src="https://github-readme-stats.vercel.app/api?username=LeczyDeveloper&show_icons=true&theme=radical" />
 </p>
