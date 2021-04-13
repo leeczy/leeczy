@@ -1,6 +1,6 @@
 ### Leczy :shipit:
 
-- 🔭 Discord Developer
+- 🔭 Developer
 - :sparkler: Argentina
 - :robot: https://discord.bio/p/leczy
 
