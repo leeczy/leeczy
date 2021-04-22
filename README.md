@@ -1,5 +1,4 @@
 ### Leczy :shipit:
-- :sparkler: Argentina
 
 ```csharp
 Dictionary<string, string> presentation =
