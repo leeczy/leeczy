@@ -1,8 +1,5 @@
 ### Leczy :shipit:
-
-- 🔭 Developer
 - :sparkler: Argentina
-- :robot: https://discord.bio/p/leczy
 
 ```csharp
 Dictionary<string, string> presentation =
