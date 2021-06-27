@@ -6,9 +6,8 @@ Dictionary<string, string> presentation =
 {
   { "Libraries I used", "Discord.js, TMI.js"},
   { "Experience: ", "HTML, CSS, JavaScript, TypeScript, C#" },
-  { "Discord: ", "Leczy#0084"},
+  { "Discord: ", "leczy#0084"},
   { "Website: ", "www.leczy.xyz"},
-  { "Discord Bot: ", "discord.ly/who-cares"}
 }
 ```
 
