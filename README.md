@@ -5,8 +5,8 @@ Dictionary<string, string> presentation =
     new Dictionary<string, string>();
 {
   { "Libraries I used", "Discord.js, TMI.js"},
-  { "Experience: ", "HTML, CSS, JavaScript, TypeScript, C#" },
-  { "Discord: ", "leczy#1337"},
+  { "Experience: ", "HTML, CSS, JavaScript, TypeScript, C#, Lua" },
+  { "Discord: ", "leczy#0001"},
   { "Website: ", "www.leczy.xyz"},
 }
 ```
