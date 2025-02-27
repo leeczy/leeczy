@@ -1,14 +1,7 @@
-### Leczy :shipit:
+### vue enjoyer :shipit:
 
 ```csharp
-Dictionary<string, string> presentation =
-    new Dictionary<string, string>();
-{
-  { "Libraries I used", "Discord.js, TMI.js"},
-  { "Experience: ", "HTML, CSS, JavaScript, TypeScript, C#, Lua" },
-  { "Discord: ", "leczy#0001"},
-  { "Website: ", "www.leczy.club"},
-}
+{ "backend developer ", "discord: leeczy"},
 ```
 
 <p align="center">
